@@ -1,3 +1,4 @@
 # Hiroshima
 1.12.2 PVP Client
-Toast is a nigga
+
+Be Good at PVP with Hiroshima :)
