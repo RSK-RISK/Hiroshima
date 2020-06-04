@@ -1,7 +1,7 @@
 {
   "required": true,
   "compatibilityLevel": "JAVA_8",
-  "package": "me.rsk.hiroshima.gasda.mixin.client",
+  "package": "me.rsk.hiroshima.mixin.client",
   "refmap": "mixins.hiroshima.refmap.json",
   "client": [
     "MixinGuiChat",
