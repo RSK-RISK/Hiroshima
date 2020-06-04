@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.rsk.hiroshima.gasda.mixin.client",
+  "refmap": "mixins.hiroshima.refmap.json",
+  "client": [
+    "MixinGuiChat",
+    "MixinNetworkManager",
+    "MixinEntity",
+    "MixinMinecraft",
+    "MixinStateImplementation",
+    "MixinEntityRenderer",
+    "MixinEntityPlayerSP",
+    "MixinModelBoat",
+    "MixinBlockSoulSand",
+    "MixinEntityPig",
+    "MixinGuiScreen",
+    "MixinBlockLiquid",
+    "MixinRenderPlayer",
+    "MixinGuiPlayerTabOverlay",
+    "MixinC00Handshake",
+    "MixinNetHandlerPlayClient",
+    "MixinRenderLiving",
+    "MixinPlayerControllerMP",
+    "MixinEntityLlama"
+  ]
+}

@@ -1,0 +1,18 @@
+FD: me/zeroeightsix/kami/mixin/client/MixinC00Handshake/protocolVersion me/zeroeightsix/kami/mixin/client/MixinC00Handshake/a
+FD: me/zeroeightsix/kami/mixin/client/MixinC00Handshake/ip me/zeroeightsix/kami/mixin/client/MixinC00Handshake/b
+FD: me/zeroeightsix/kami/mixin/client/MixinC00Handshake/port me/zeroeightsix/kami/mixin/client/MixinC00Handshake/c
+FD: me/zeroeightsix/kami/mixin/client/MixinC00Handshake/requestedState me/zeroeightsix/kami/mixin/client/MixinC00Handshake/d
+FD: me/zeroeightsix/kami/mixin/client/MixinGuiChat/inputField me/zeroeightsix/kami/mixin/client/MixinGuiChat/a
+FD: me/zeroeightsix/kami/mixin/client/MixinGuiChat/historyBuffer me/zeroeightsix/kami/mixin/client/MixinGuiChat/g
+FD: me/zeroeightsix/kami/mixin/client/MixinGuiChat/sentHistoryCursor me/zeroeightsix/kami/mixin/client/MixinGuiChat/h
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/world me/zeroeightsix/kami/mixin/client/MixinMinecraft/f
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/player me/zeroeightsix/kami/mixin/client/MixinMinecraft/h
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/currentScreen me/zeroeightsix/kami/mixin/client/MixinMinecraft/m
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/gameSettings me/zeroeightsix/kami/mixin/client/MixinMinecraft/t
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/ingameGUI me/zeroeightsix/kami/mixin/client/MixinMinecraft/q
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/skipRenderWorld me/zeroeightsix/kami/mixin/client/MixinMinecraft/r
+FD: me/zeroeightsix/kami/mixin/client/MixinMinecraft/soundHandler me/zeroeightsix/kami/mixin/client/MixinMinecraft/aL
+FD: me/zeroeightsix/kami/mixin/client/MixinRenderGlobal/mc me/zeroeightsix/kami/mixin/client/MixinRenderGlobal/h
+FD: me/zeroeightsix/kami/mixin/client/MixinRenderGlobal/renderContainer me/zeroeightsix/kami/mixin/client/MixinRenderGlobal/O
+FD: me/zeroeightsix/kami/mixin/client/MixinStateImplementation/block me/zeroeightsix/kami/mixin/client/MixinStateImplementation/a
+MD: me/zeroeightsix/kami/mixin/client/MixinGuiChat/initGui ()V me/zeroeightsix/kami/mixin/client/MixinGuiChat/b ()V
